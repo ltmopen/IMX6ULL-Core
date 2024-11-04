@@ -1,0 +1,1 @@
+1、imx6ull core board，6-layer PCB
